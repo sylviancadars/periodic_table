@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# Netbeans ignore
+build/
+dist/
+

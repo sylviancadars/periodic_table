@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<atomicNumbers>
+    
+    <atomicNumber>1
+        <eltName>Hydrogen</eltName>
+        <eltSymbol>H</eltSymbol>
+        <isotopes>
+            <isotopeNb>1
+                <nucSpin>0.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">26.7522128e7</magGyrRatio>
+                <natAbundance>99.9885</natAbundance>
+            </isotopeNb>
+            <isotopeNb>2
+                <nucSpin>1.0</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">4.10662791e7</magGyrRatio>
+                <natAbundance>0.0115</natAbundance>
+                <Q Unit = "barn">0.00286</Q>
+            </isotopeNb>
+            <isotopeNb>3
+                <nucSpin>0.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">28.5349779e7</magGyrRatio>
+                <natAbundance>0</natAbundance>
+            </isotopeNb>
+        </isotopes>
+
+    </atomicNumber>
+    
+    <atomicNumber>3
+        <eltName>Lithium</eltName>
+        <eltSymbol>Li</eltSymbol>
+        <isotopes>
+            <isotopeNb>6
+                <nucSpin>1</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">3.9371709e7</magGyrRatio>
+                <natAbundance>7.59</natAbundance>
+                <Q Unit = "barn">-0.000808</Q>
+            </isotopeNb>
+            <isotopeNb>7
+                <nucSpin>1.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">10.3977013e7</magGyrRatio>
+                <natAbundance>92.41</natAbundance>
+                <Q Unit = "barn">-0.0401</Q>
+            </isotopeNb>
+        </isotopes>
+
+    </atomicNumber>
+    
+    <atomicNumber>5
+        <eltName>Boron</eltName>
+        <eltSymbol>B</eltSymbol>
+        <isotopes>
+            <isotopeNb>10
+                <nucSpin>3</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">2.8746786e7</magGyrRatio>
+                <natAbundance>19.9</natAbundance>
+                <Q Unit = "barn">0.08459</Q>
+            </isotopeNb>
+            <isotopeNb>11
+                <nucSpin>1.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">8.5847044e7</magGyrRatio>
+                <natAbundance>80.1</natAbundance>
+                <Q Unit = "barn">0.04059</Q>
+            </isotopeNb>
+        </isotopes>
+
+    </atomicNumber>
+    
+    <atomicNumber>6
+        <eltName>Carbon</eltName>
+        <eltSymbol>C</eltSymbol>
+        <isotopes>
+            <isotopeNb>13
+                <nucSpin>0.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">6.728284e7</magGyrRatio>
+                <natAbundance>1.07</natAbundance>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+    <atomicNumber>8
+        <eltName>Oxygen</eltName>
+        <eltSymbol>O</eltSymbol>
+        <isotopes>
+            <isotopeNb>17
+                <nucSpin>2.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">-3.62808e7</magGyrRatio>
+                <natAbundance>0.038</natAbundance>
+                <Q Unit = "barn">-0.02558</Q>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+    
+    <atomicNumber>9
+        <eltName>Fluorine</eltName>
+        <eltSymbol>F</eltSymbol>
+        <isotopes>
+            <isotopeNb>19
+                <nucSpin>0.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">25.18148e7</magGyrRatio>
+                <natAbundance>100</natAbundance>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+    <atomicNumber>12
+        <eltName>Magnesium</eltName>
+        <eltSymbol>Mg</eltSymbol>
+        <isotopes>
+            <isotopeNb>25
+                <nucSpin>2.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">-1.63887e7</magGyrRatio>
+                <natAbundance>10.0</natAbundance>
+                <Q Unit = "barn">0.1994</Q>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+    <atomicNumber>13
+        <eltName>Aluminium</eltName>
+        <eltSymbol>Al</eltSymbol>
+        <isotopes>
+            <isotopeNb>27
+                <nucSpin>2.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">6.9762715e7</magGyrRatio>
+                <natAbundance>100</natAbundance>
+                <Q Unit = "barn">0.1466</Q>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+    <atomicNumber>15
+        <eltName>Phosphorus</eltName>
+        <eltSymbol>P</eltSymbol>
+        <isotopes>
+            <isotopeNb>31
+                <nucSpin>0.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">10.8394e7</magGyrRatio>
+                <natAbundance>100</natAbundance>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+    <atomicNumber>31
+        <eltName>Gallium</eltName>
+        <eltSymbol>Ga</eltSymbol>
+        <isotopes>
+            <isotopeNb>69
+                <nucSpin>1.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">6.438855e7</magGyrRatio>
+                <natAbundance>60.108</natAbundance>
+                <Q Unit = "barn">0.171</Q>
+            </isotopeNb>
+            <isotopeNb>71
+                <nucSpin>1.5</nucSpin>
+                <magGyrRatio Unit = "radT-1s-1">8.181171e7</magGyrRatio>
+                <natAbundance>60.108</natAbundance>
+                <Q Unit = "barn">0.107</Q>
+            </isotopeNb>
+        </isotopes>
+    </atomicNumber>
+
+</atomicNumbers>
